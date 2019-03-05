@@ -1,0 +1,15 @@
+*~
+*#
+.#*
+.DS_Store
+coverage
+.eslintcache
+node_modules/
+.npm
+.yarn-integrity
+npm-debug.log*
+package-lock.json
+/build/bundle.js
+/build/index.html
+/build*
+/build/*
