@@ -52,6 +52,18 @@ module.exports = {
       },
     ],
   },
+  devServer: {
+    proxy: {
+      '/api/*': {
+        changeOrigin: true,
+        secure: false,
+        target: 'http://localhost:8008',
+      },
+    },
+    historyApiFallback: true,
+    hot: true,
+    inline: true,
+  },
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new ExtractTextPlugin('style.css'),

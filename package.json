@@ -23,10 +23,11 @@
     "npm": ">=3"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "lodash": "4.17.11",
-    "prop-types": "15.6.2",
-    "react": "^16.7.0",
-    "react-dom": "16.7.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
     "react-hot-loader": "4.6.3",
     "react-redux": "^6.0.1",
     "redux": "^4.0.1",
