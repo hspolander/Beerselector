@@ -1,0 +1,18 @@
+@import "../../../css/_color";
+@import "../../../css/util";
+
+.row {
+  display: flex;
+  background-color: $lightGray;
+  color: black;
+  margin: 0px;
+  &.hover {
+  	background-color: $mediumGray;
+  }
+  &.odd {
+    background-color: white;
+    &.hover {
+  	  background-color: $mediumGray;
+    }
+  }
+}

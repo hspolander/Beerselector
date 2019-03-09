@@ -1,0 +1,26 @@
+@import "../../../css/_color";
+@import "../../../css/_util";
+
+.cell {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  flex: 2 0 0%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  &.small{
+    flex: 1 0 0%;
+  }
+  &.medium {
+    flex: 3 0 0%;
+  }
+  &.big {
+    flex: 4 0 0%;
+  }
+  button {
+    @extend .normalize-button;
+    text-align: left;
+    width: 100%;
+    font-size: 16px;
+  }
+}

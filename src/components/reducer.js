@@ -1,7 +1,7 @@
+import _ from 'lodash';
 import {
   FETCH_BEERS_FULFILLED,
   FETCH_BEERS_REJECTED,
-  FETCH_BEERS_NO_MATCH,
   FETCH_BEERS,
   SORT_BEERS,
   FILTER_BEERS,
@@ -12,6 +12,7 @@ import {
 const initialState = {
   beers: null,
   beerDetailed: null,
+  beerSortOptions: null,
   error: null,
 };
 
@@ -23,14 +24,22 @@ export default function beerReducer(state = initialState, action) {
     case FETCH_BEERS_REJECTED: {
       return { ...state };
     }
-    case FETCH_BEERS_NO_MATCH: {
-      return { ...state };
-    }
     case FETCH_BEERS: {
       return { ...state };
     }
     case SORT_BEERS: {
-      return { ...state };
+      return {
+        ...state,
+        beerSortOptions: {
+          colSorted: action.payload.colSorted,
+          sortDirection: action.payload.sortDirection,
+        },
+        beers: _.orderBy(
+          state.beers,
+          [action.payload.colSorted],
+          [action.payload.sortDirection],
+        ),
+      };
     }
     case FILTER_BEERS: {
       return { ...state };

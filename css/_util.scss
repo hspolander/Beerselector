@@ -29,3 +29,17 @@
     -ms-user-select: none; 
     user-select: none; 
 }
+
+.normalize-button {
+  border: none;
+  background: none;
+  outline: none;
+  padding: 0;
+  
+  &:focus, &:active {
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+  }
+}

@@ -3,7 +3,6 @@ import axios from 'axios';
 import {
   FETCH_BEERS_FULFILLED,
   FETCH_BEERS_REJECTED,
-  FETCH_BEERS_NO_MATCH,
   FETCH_BEERS,
   SORT_BEERS,
   FILTER_BEERS,
@@ -16,11 +15,7 @@ export const loadBeers = () => dispatch => {
   axios
     .get(`/api`)
     .then(response => {
-      if (response.data && response.data.length > 0) {
-        dispatch({ type: FETCH_BEERS_FULFILLED, payload: response.data });
-      } else {
-        dispatch({ type: FETCH_BEERS_NO_MATCH, payload: response.data });
-      }
+      dispatch({ type: FETCH_BEERS_FULFILLED, payload: response.data });
     })
     .catch(err => {
       dispatch({ type: FETCH_BEERS_REJECTED, payload: err });
@@ -35,8 +30,11 @@ export const hideDetails = id => dispatch => {
   dispatch({ type: HIDE_BEER_DETAILS, id });
 };
 
-export const sortBeers = (col, direction) => dispatch => {
-  dispatch({ type: SORT_BEERS, payload: { col, direction } });
+export const sortBeers = (colSorted, sortDirection) => dispatch => {
+  dispatch({
+    type: SORT_BEERS,
+    payload: { colSorted, sortDirection },
+  });
 };
 
 export const filterBeers = value => dispatch => {
