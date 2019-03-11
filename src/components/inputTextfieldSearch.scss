@@ -8,7 +8,7 @@
   & > select {
     padding: 0 18px 0 20px;
     vertical-align: bottom;
-    width: 20%;
+    width: 19%;
     min-width: 110px;
     height: 40px;
     display: inline-block;
@@ -17,12 +17,14 @@
     border-radius: 5px;
     color: $almostBlack;
     font-size: 16px;
+    outline: none;
+    margin-right: 1%
   }
 
   & > input {
     @extend .input-text;
 	  resize: none;
-    max-width: calc(100% - 110px);
+    max-width: calc(99% - 110px);
     vertical-align: bottom;
 	  padding: 13px 18px 13px 20px;
 	  width: 80%;
