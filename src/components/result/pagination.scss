@@ -1,16 +1,48 @@
 @import "../../../css/_color";
 @import "../../../css/util";
 
+$break-large: 1440px;
+$break-medium: 1024px;
+$break-small: 800px;
+@mixin respond-to($media) {
+  @if $media == mobile-screens {
+    @media only screen and (max-width: $break-small) { @content; }
+  }
+  @else if $media == small-screens {
+    @media only screen and (min-width: $break-small) { @content; }
+  }
+  @else if $media == medium-screens {
+    @media only screen and (min-width: $break-medium) { @content; }
+  }
+  @else if $media == large-screens {
+    @media only screen and (min-width: $break-large) { @content; }
+  }
+}
 .paginationContainer {
   @extend .center-horizontally;
   margin-top: 30px;
   color: $almostBlack;
   display: inline-block;
   text-align: center;
+  width: 100%;
 }
 
 .pageNumber {
   @extend .normalize-button;
+  @include respond-to(mobile-screens) {
+    font-size: 27px;
+    width: 40px;
+    height: 40px;
+    .img {
+      height: 26px;
+    }
+  }
+  @include respond-to(small-screens) {
+  }
+  @include respond-to(medium-screens) {
+  }
+  @include respond-to(large-screens) {
+  }
   margin: 2px;
   display: inline-block;
   width: 30px;

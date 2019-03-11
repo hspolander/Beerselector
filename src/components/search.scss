@@ -1,3 +1,36 @@
+$break-large: 1440px;
+$break-medium: 1024px;
+$break-small: 800px;
+@mixin respond-to($media) {
+  @if $media == mobile-screens {
+    @media only screen and (max-width: $break-small) { @content; }
+  }
+  @else if $media == small-screens {
+    @media only screen and (min-width: $break-small) { @content; }
+  }
+  @else if $media == medium-screens {
+    @media only screen and (min-width: $break-medium) { @content; }
+  }
+  @else if $media == large-screens {
+    @media only screen and (min-width: $break-large) { @content; }
+  }
+}
+
 .search {
-	padding: 0 20%
+  @include respond-to(mobile-screens) {
+  	padding: 1%;
+  }
+  @include respond-to(small-screens) {
+	padding: 1% 10%;
+  }
+  @include respond-to(medium-screens) {
+	padding: 1% 15%;
+  }
+  @include respond-to(large-screens) {
+	padding: 1% 18%;
+  }
+	padding: 1% 20%;
+	&.fade {
+		opacity: 0.4;
+	}
 }

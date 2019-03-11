@@ -1,6 +1,44 @@
 @import "../../../css/_util";
 
+$break-large: 1440px;
+$break-medium: 1024px;
+$break-small: 800px;
+@mixin respond-to($media) {
+  @if $media == mobile-screens {
+    @media only screen and (max-width: $break-small) { @content; }
+  }
+  @else if $media == small-screens {
+    @media only screen and (min-width: $break-small) { @content; }
+  }
+  @else if $media == medium-screens {
+    @media only screen and (min-width: $break-medium) { @content; }
+  }
+  @else if $media == large-screens {
+    @media only screen and (min-width: $break-large) { @content; }
+  }
+}
+
 .titleCell {
+  @include respond-to(mobile-screens) {
+    &:nth-child(2) {
+      display: none;
+    }
+    &:nth-child(3) {
+      display: none;
+    }
+    padding: 10px;
+    font-size: 25px;
+  }
+  @include respond-to(small-screens) {
+    padding: 5px;
+    font-size: 18px;
+  }
+  @include respond-to(medium-screens) {
+    padding: 5px;
+  }
+  @include respond-to(large-screens) {
+    padding: 5px;
+  }
   position: relative;
   display: inline-block;
   overflow: hidden;
