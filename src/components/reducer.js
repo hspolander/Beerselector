@@ -20,7 +20,7 @@ const initialState = {
 export default function beerReducer(state = initialState, action) {
   switch (action.type) {
     case FETCH_BEERS_FULFILLED: {
-      return { ...state, beers: action.payload };
+      return { ...state, beers: action.payload, filteredBeers: action.payload };
     }
     case FETCH_BEERS_REJECTED: {
       return { ...state };
@@ -35,8 +35,8 @@ export default function beerReducer(state = initialState, action) {
           colSorted: action.payload.colSorted,
           sortDirection: action.payload.sortDirection,
         },
-        beers: _.orderBy(
-          state.beers,
+        filteredBeers: _.orderBy(
+          state.filteredBeers,
           [action.payload.colSorted],
           [action.payload.sortDirection],
         ),
