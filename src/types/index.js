@@ -1,7 +1,7 @@
 import { shape, number, string, arrayOf, oneOfType } from 'prop-types';
 
 export const beerObj = shape({
-  ABV: string,
+  ABV: number,
   Brewer: shape({
     first: string,
     last: string,

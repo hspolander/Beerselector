@@ -2,7 +2,7 @@
   {
     "_id": "5c3dd8d95cf0d9ba13eb184e",
     "index": 0,
-    "ABV": "9.0",
+    "ABV": 9.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 42,
     "EBC": 40,
@@ -19,7 +19,7 @@
   {
     "_id": "5c3dd8d924d68796b0e538c3",
     "index": 1,
-    "ABV": "4.7",
+    "ABV": 4.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 12,
     "EBC": 24,
@@ -36,7 +36,7 @@
   {
     "_id": "5c3dd8d96898e1066529c162",
     "index": 2,
-    "ABV": "11.8",
+    "ABV": 11.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 60,
     "EBC": 30,
@@ -53,7 +53,7 @@
   {
     "_id": "5c3dd8d9f1480f08e9c634e9",
     "index": 3,
-    "ABV": "7.2",
+    "ABV": 7.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 63,
     "EBC": 33,
@@ -70,7 +70,7 @@
   {
     "_id": "5c3dd8d9a109c6f682aa3e68",
     "index": 4,
-    "ABV": "3.1",
+    "ABV": 3.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 66,
     "EBC": 43,
@@ -87,7 +87,7 @@
   {
     "_id": "5c3dd8d92ec1a9ed24fc6017",
     "index": 5,
-    "ABV": "12.2",
+    "ABV": 12.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 31,
     "EBC": 55,
@@ -104,7 +104,7 @@
   {
     "_id": "5c3dd8d901be0c7577154510",
     "index": 6,
-    "ABV": "11.0",
+    "ABV": 11.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 56,
     "EBC": 33,
@@ -121,7 +121,7 @@
   {
     "_id": "5c3dd8d93c5db1621e3f42f3",
     "index": 7,
-    "ABV": "3.8",
+    "ABV": 3.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 10,
     "EBC": 12,
@@ -138,7 +138,7 @@
   {
     "_id": "5c3dd8d91c76fa9c86b669c7",
     "index": 8,
-    "ABV": "14.0",
+    "ABV": 14.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 37,
     "EBC": 36,
@@ -155,7 +155,7 @@
   {
     "_id": "5c3dd8d924543a6c9bd27df7",
     "index": 9,
-    "ABV": "4.2",
+    "ABV": 4.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 30,
     "EBC": 22,
@@ -172,7 +172,7 @@
   {
     "_id": "5c3dd8d99b5aa20a3d2fde69",
     "index": 10,
-    "ABV": "6.2",
+    "ABV": 6.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 30,
     "EBC": 20,
@@ -189,7 +189,7 @@
   {
     "_id": "5c3dd8d915267478c039f000",
     "index": 11,
-    "ABV": "7.9",
+    "ABV": 7.9,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 48,
     "EBC": 45,
@@ -206,7 +206,7 @@
   {
     "_id": "5c3dd8d9a438284e5ca819f6",
     "index": 12,
-    "ABV": "8.8",
+    "ABV": 8.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 37,
     "EBC": 38,
@@ -223,7 +223,7 @@
   {
     "_id": "5c3dd8d969c94db986a52eab",
     "index": 13,
-    "ABV": "9.7",
+    "ABV": 9.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 42,
     "EBC": 37,
@@ -240,7 +240,7 @@
   {
     "_id": "5c3dd8d9f050e8998c181cdc",
     "index": 14,
-    "ABV": "6.8",
+    "ABV": 6.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 12,
     "EBC": 38,
@@ -257,7 +257,7 @@
   {
     "_id": "5c3dd8d9ad5eb9a64abd7620",
     "index": 15,
-    "ABV": "3.5",
+    "ABV": 3.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 52,
     "EBC": 23,
@@ -274,7 +274,7 @@
   {
     "_id": "5c3dd8d9c63499a537278aba",
     "index": 16,
-    "ABV": "4.0",
+    "ABV": 4.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 42,
     "EBC": 55,
@@ -291,7 +291,7 @@
   {
     "_id": "5c3dd8d9ae571bf273b3694f",
     "index": 17,
-    "ABV": "6.2",
+    "ABV": 6.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 63,
     "EBC": 23,
@@ -308,7 +308,7 @@
   {
     "_id": "5c3dd8d9a0947a22936e0d32",
     "index": 18,
-    "ABV": "7.0",
+    "ABV": 7.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 48,
     "EBC": 24,
@@ -325,7 +325,7 @@
   {
     "_id": "5c3dd8d9f8046e26afebb1fd",
     "index": 19,
-    "ABV": "8.4",
+    "ABV": 8.4,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 68,
     "EBC": 45,
@@ -342,7 +342,7 @@
   {
     "_id": "5c3dd8d94d75d1e4ee461c48",
     "index": 20,
-    "ABV": "12.5",
+    "ABV": 12.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 58,
     "EBC": 21,
@@ -359,7 +359,7 @@
   {
     "_id": "5c3dd8d9bd905ce3b2fce190",
     "index": 21,
-    "ABV": "5.5",
+    "ABV": 5.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 32,
     "EBC": 32,
@@ -376,7 +376,7 @@
   {
     "_id": "5c3dd8d91a87ef38e4f95d90",
     "index": 22,
-    "ABV": "13.6",
+    "ABV": 13.6,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 23,
     "EBC": 43,
@@ -393,7 +393,7 @@
   {
     "_id": "5c3dd8d9a29ac11702295874",
     "index": 23,
-    "ABV": "4.5",
+    "ABV": 4.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 49,
     "EBC": 28,
@@ -410,7 +410,7 @@
   {
     "_id": "5c3dd8d9a509cdb8d86f358f",
     "index": 24,
-    "ABV": "3.1",
+    "ABV": 3.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 67,
     "EBC": 12,
@@ -427,7 +427,7 @@
   {
     "_id": "5c3dd8d96d467e2784922a71",
     "index": 25,
-    "ABV": "3.3",
+    "ABV": 3.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 31,
     "EBC": 99,
@@ -444,7 +444,7 @@
   {
     "_id": "5c3dd8d9a80610175d0dc03d",
     "index": 26,
-    "ABV": "5.3",
+    "ABV": 5.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 32,
     "EBC": 22,
@@ -461,7 +461,7 @@
   {
     "_id": "5c3dd8d98a8d96270f95c9b8",
     "index": 27,
-    "ABV": "7.3",
+    "ABV": 7.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 45,
     "EBC": 112,
@@ -478,7 +478,7 @@
   {
     "_id": "5c3dd8d9798be95d797b965d",
     "index": 28,
-    "ABV": "4.0",
+    "ABV": 4.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 26,
     "EBC": 66,
@@ -495,7 +495,7 @@
   {
     "_id": "5c3dd8d9579dcd5e885a072f",
     "index": 29,
-    "ABV": "13.8",
+    "ABV": 13.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 49,
     "EBC": 28,
@@ -512,7 +512,7 @@
   {
     "_id": "5c3dd8d9748c8c9b692b2778",
     "index": 30,
-    "ABV": "11.4",
+    "ABV": 11.4,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 26,
     "EBC": 75,
@@ -529,7 +529,7 @@
   {
     "_id": "5c3dd8d9af555a44eb623205",
     "index": 31,
-    "ABV": "11.2",
+    "ABV": 11.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 37,
     "EBC": 120,
@@ -546,7 +546,7 @@
   {
     "_id": "5c3dd8d9912f4e4c4c6a205d",
     "index": 32,
-    "ABV": "10.4",
+    "ABV": 10.4,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 51,
     "EBC": 53,
@@ -563,7 +563,7 @@
   {
     "_id": "5c3dd8d987e0a4c0a3e23a8b",
     "index": 33,
-    "ABV": "6.9",
+    "ABV": 6.9,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 18,
     "EBC": 48,
@@ -580,7 +580,7 @@
   {
     "_id": "5c3dd8d9ffd7e342f18bb746",
     "index": 34,
-    "ABV": "10.7",
+    "ABV": 10.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 64,
     "EBC": 43,
@@ -597,7 +597,7 @@
   {
     "_id": "5c3dd8d9585085645307c50a",
     "index": 35,
-    "ABV": "13.3",
+    "ABV": 13.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 31,
     "EBC": 65,
@@ -614,7 +614,7 @@
   {
     "_id": "5c3dd8d91f3e5ff7baf77e25",
     "index": 36,
-    "ABV": "3.1",
+    "ABV": 3.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 52,
     "EBC": 70,
@@ -631,7 +631,7 @@
   {
     "_id": "5c3dd8d932d085573faf2ef9",
     "index": 37,
-    "ABV": "5.1",
+    "ABV": 5.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 46,
     "EBC": 28,
@@ -648,7 +648,7 @@
   {
     "_id": "5c3dd8d92f46c64cb5d51d09",
     "index": 38,
-    "ABV": "11.7",
+    "ABV": 11.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 30,
     "EBC": 29,
@@ -665,7 +665,7 @@
   {
     "_id": "5c3dd8d907006227f2370b03",
     "index": 39,
-    "ABV": "12.6",
+    "ABV": 12.6,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 5,
     "EBC": 10,
@@ -682,7 +682,7 @@
   {
     "_id": "5c3dd8d98bb3817ccf1930b0",
     "index": 40,
-    "ABV": "8.9",
+    "ABV": 8.9,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 40,
     "EBC": 23,
@@ -699,7 +699,7 @@
   {
     "_id": "5c3dd8d92e6a50963c2ea8db",
     "index": 41,
-    "ABV": "3.8",
+    "ABV": 3.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 32,
     "EBC": 22,
@@ -716,7 +716,7 @@
   {
     "_id": "5c3dd8d9fe38a5a068081b61",
     "index": 42,
-    "ABV": "9.7",
+    "ABV": 9.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 22,
     "EBC": 33,
@@ -733,7 +733,7 @@
   {
     "_id": "5c3dd8d95c93dbd78317801e",
     "index": 43,
-    "ABV": "13.2",
+    "ABV": 13.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 58,
     "EBC": 47,
@@ -750,7 +750,7 @@
   {
     "_id": "5c3dd8d9b9cefe0f22cea1b8",
     "index": 44,
-    "ABV": "7.2",
+    "ABV": 7.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 70,
     "EBC": 20,
@@ -767,7 +767,7 @@
   {
     "_id": "5c3dd8d91766848146c4a3a7",
     "index": 45,
-    "ABV": "13.4",
+    "ABV": 13.4,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 56,
     "EBC": 64,
@@ -784,7 +784,7 @@
   {
     "_id": "5c3dd8d9b6406b4edc7d3380",
     "index": 46,
-    "ABV": "11.0",
+    "ABV": 11.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 41,
     "EBC": 22,
@@ -801,7 +801,7 @@
   {
     "_id": "5c3dd8d905fa7a61d5b1db8b",
     "index": 47,
-    "ABV": "13.3",
+    "ABV": 13.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 28,
     "EBC": 23,
@@ -818,7 +818,7 @@
   {
     "_id": "5c3dd8d9bc9f86877e2436a3",
     "index": 48,
-    "ABV": "3.9",
+    "ABV": 3.9,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 23,
     "EBC": 50,
@@ -835,7 +835,7 @@
   {
     "_id": "5c3dd8d95bbc86e5d3544e43",
     "index": 49,
-    "ABV": "11.2",
+    "ABV": 11.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 16,
     "EBC": 25,
@@ -852,7 +852,7 @@
   {
     "_id": "5c3dd8d91dbd7d9063cbc286",
     "index": 50,
-    "ABV": "8.8",
+    "ABV": 8.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 63,
     "EBC": 28,
@@ -869,7 +869,7 @@
   {
     "_id": "5c3dd8d9a64bd06769a5cbcc",
     "index": 51,
-    "ABV": "11.5",
+    "ABV": 11.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 68,
     "EBC": 19,
@@ -886,7 +886,7 @@
   {
     "_id": "5c3dd8d9fa38c6a3f57eac88",
     "index": 52,
-    "ABV": "11.6",
+    "ABV": 11.6,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 18,
     "EBC": 34,
@@ -903,7 +903,7 @@
   {
     "_id": "5c3dd8d9b34bcebb7312e917",
     "index": 53,
-    "ABV": "13.9",
+    "ABV": 13.9,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 52,
     "EBC": 26,
@@ -920,7 +920,7 @@
   {
     "_id": "5c3dd8d990c90efb3e5bbce8",
     "index": 54,
-    "ABV": "4.3",
+    "ABV": 4.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 19,
     "EBC": 117,
@@ -937,7 +937,7 @@
   {
     "_id": "5c3dd8d96a883d63437cee4c",
     "index": 55,
-    "ABV": "11.1",
+    "ABV": 11.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 27,
     "EBC": 85,
@@ -954,7 +954,7 @@
   {
     "_id": "5c3dd8d9b20a9a38b1c1ba3a",
     "index": 56,
-    "ABV": "13.4",
+    "ABV": 13.4,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 35,
     "EBC": 57,
@@ -971,7 +971,7 @@
   {
     "_id": "5c3dd8d9c8338eea24b52646",
     "index": 57,
-    "ABV": "8.1",
+    "ABV": 8.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 44,
     "EBC": 48,
@@ -988,7 +988,7 @@
   {
     "_id": "5c3dd8d94969023b954c0382",
     "index": 58,
-    "ABV": "5.3",
+    "ABV": 5.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 68,
     "EBC": 130,
@@ -1005,7 +1005,7 @@
   {
     "_id": "5c3dd8d910e6905f2112e2ce",
     "index": 59,
-    "ABV": "9.1",
+    "ABV": 9.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 44,
     "EBC": 57,
@@ -1022,7 +1022,7 @@
   {
     "_id": "5c3dd8d916d82f1c9319e369",
     "index": 60,
-    "ABV": "11.9",
+    "ABV": 11.9,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 46,
     "EBC": 18,
@@ -1039,7 +1039,7 @@
   {
     "_id": "5c3dd8d978920efe5b3f9571",
     "index": 61,
-    "ABV": "7.4",
+    "ABV": 7.4,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 16,
     "EBC": 14,
@@ -1056,7 +1056,7 @@
   {
     "_id": "5c3dd8d988a655f8fcc591c2",
     "index": 62,
-    "ABV": "11.3",
+    "ABV": 11.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 51,
     "EBC": 56,
@@ -1073,7 +1073,7 @@
   {
     "_id": "5c3dd8d91b67b3e903f260ba",
     "index": 63,
-    "ABV": "12.1",
+    "ABV": 12.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 32,
     "EBC": 44,
@@ -1090,7 +1090,7 @@
   {
     "_id": "5c3dd8d9d2d72d80fb8a5e8f",
     "index": 64,
-    "ABV": "13.7",
+    "ABV": 13.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 30,
     "EBC": 26,
@@ -1107,7 +1107,7 @@
   {
     "_id": "5c3dd8d9af574a913cbe4359",
     "index": 65,
-    "ABV": "6.5",
+    "ABV": 6.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 20,
     "EBC": 24,
@@ -1124,7 +1124,7 @@
   {
     "_id": "5c3dd8d916f3773af7803a58",
     "index": 66,
-    "ABV": "6.8",
+    "ABV": 6.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 50,
     "EBC": 25,
@@ -1141,7 +1141,7 @@
   {
     "_id": "5c3dd8d9d8f5517b6eacab94",
     "index": 67,
-    "ABV": "11.8",
+    "ABV": 11.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 37,
     "EBC": 25,
@@ -1158,7 +1158,7 @@
   {
     "_id": "5c3dd8d99a18e7d0af008d5c",
     "index": 68,
-    "ABV": "12.7",
+    "ABV": 12.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 54,
     "EBC": 18,
@@ -1175,7 +1175,7 @@
   {
     "_id": "5c3dd8d9c4e768353ec38435",
     "index": 69,
-    "ABV": "6.2",
+    "ABV": 6.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 54,
     "EBC": 43,
@@ -1192,7 +1192,7 @@
   {
     "_id": "5c3dd8d9f527e9f9e6680da5",
     "index": 70,
-    "ABV": "8.6",
+    "ABV": 8.6,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 49,
     "EBC": 77,
@@ -1209,7 +1209,7 @@
   {
     "_id": "5c3dd8d981e1fcbf0102b9af",
     "index": 71,
-    "ABV": "12.3",
+    "ABV": 12.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 52,
     "EBC": 18,
@@ -1226,7 +1226,7 @@
   {
     "_id": "5c3dd8d95774ab24066e017a",
     "index": 72,
-    "ABV": "4.8",
+    "ABV": 4.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 52,
     "EBC": 14,
@@ -1243,7 +1243,7 @@
   {
     "_id": "5c3dd8d9d17fb9f8efd96c46",
     "index": 73,
-    "ABV": "4.5",
+    "ABV": 4.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 34,
     "EBC": 28,
@@ -1260,7 +1260,7 @@
   {
     "_id": "5c3dd8d9fe7fc5ed56ff228f",
     "index": 74,
-    "ABV": "13.4",
+    "ABV": 13.4,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 65,
     "EBC": 83,
@@ -1277,7 +1277,7 @@
   {
     "_id": "5c3dd8d957a790c6ae0de815",
     "index": 75,
-    "ABV": "5.1",
+    "ABV": 5.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 12,
     "EBC": 21,
@@ -1294,7 +1294,7 @@
   {
     "_id": "5c3dd8d904b47a58f28a2612",
     "index": 76,
-    "ABV": "6.2",
+    "ABV": 6.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 23,
     "EBC": 174,
@@ -1311,7 +1311,7 @@
   {
     "_id": "5c3dd8d97396760c0e863c17",
     "index": 77,
-    "ABV": "5.9",
+    "ABV": 5.9,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 49,
     "EBC": 18,
@@ -1328,7 +1328,7 @@
   {
     "_id": "5c3dd8d9b7427cfc484a6126",
     "index": 78,
-    "ABV": "4.3",
+    "ABV": 4.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 40,
     "EBC": 95,
@@ -1345,7 +1345,7 @@
   {
     "_id": "5c3dd8d9c69f4adeee18a5df",
     "index": 79,
-    "ABV": "4.9",
+    "ABV": 4.9,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 35,
     "EBC": 23,
@@ -1362,7 +1362,7 @@
   {
     "_id": "5c3dd8d959880cbb9387afa0",
     "index": 80,
-    "ABV": "5.6",
+    "ABV": 5.6,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 20,
     "EBC": 27,
@@ -1379,7 +1379,7 @@
   {
     "_id": "5c3dd8d94468f4946513fcc4",
     "index": 81,
-    "ABV": "6.6",
+    "ABV": 6.6,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 22,
     "EBC": 28,
@@ -1396,7 +1396,7 @@
   {
     "_id": "5c3dd8d9e08e45dc6dd73bdc",
     "index": 82,
-    "ABV": "13.1",
+    "ABV": 13.1,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 18,
     "EBC": 97,
@@ -1413,7 +1413,7 @@
   {
     "_id": "5c3dd8d9ff3ab713c2ce5242",
     "index": 83,
-    "ABV": "12.4",
+    "ABV": 12.4,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 70,
     "EBC": 93,
@@ -1430,7 +1430,7 @@
   {
     "_id": "5c3dd8d92b7f614f5d9bc39f",
     "index": 84,
-    "ABV": "6.8",
+    "ABV": 6.8,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 54,
     "EBC": 63,
@@ -1447,7 +1447,7 @@
   {
     "_id": "5c3dd8d9e4eac7918ae9c44f",
     "index": 85,
-    "ABV": "6.3",
+    "ABV": 6.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 38,
     "EBC": 27,
@@ -1464,7 +1464,7 @@
   {
     "_id": "5c3dd8d9e72ed0bdbc58aa26",
     "index": 86,
-    "ABV": "3.2",
+    "ABV": 3.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 41,
     "EBC": 51,
@@ -1481,7 +1481,7 @@
   {
     "_id": "5c3dd8d9ef646b38bbe4d0c9",
     "index": 87,
-    "ABV": "6.0",
+    "ABV": 6.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 30,
     "EBC": 24,
@@ -1498,7 +1498,7 @@
   {
     "_id": "5c3dd8d9c1b00358cb1335a1",
     "index": 88,
-    "ABV": "12.3",
+    "ABV": 12.3,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 63,
     "EBC": 18,
@@ -1515,7 +1515,7 @@
   {
     "_id": "5c3dd8d946861b7d6f9d0b2d",
     "index": 89,
-    "ABV": "11.5",
+    "ABV": 11.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 51,
     "EBC": 57,
@@ -1532,7 +1532,7 @@
   {
     "_id": "5c3dd8d97ab38fca53e4c325",
     "index": 90,
-    "ABV": "9.0",
+    "ABV": 9.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 49,
     "EBC": 34,
@@ -1549,7 +1549,7 @@
   {
     "_id": "5c3dd8d9ab66dcce29120c5c",
     "index": 91,
-    "ABV": "12.5",
+    "ABV": 12.5,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 37,
     "EBC": 82,
@@ -1566,7 +1566,7 @@
   {
     "_id": "5c3dd8d970a2f6392791171b",
     "index": 92,
-    "ABV": "6.2",
+    "ABV": 6.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 31,
     "EBC": 78,
@@ -1583,7 +1583,7 @@
   {
     "_id": "5c3dd8d90f2d08e930a54ded",
     "index": 93,
-    "ABV": "4.2",
+    "ABV": 4.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 68,
     "EBC": 45,
@@ -1600,7 +1600,7 @@
   {
     "_id": "5c3dd8d90ad708584d5c3dd9",
     "index": 94,
-    "ABV": "9.7",
+    "ABV": 9.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 22,
     "EBC": 22,
@@ -1617,7 +1617,7 @@
   {
     "_id": "5c3dd8d97da8a3da8425af6b",
     "index": 95,
-    "ABV": "5.7",
+    "ABV": 5.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 31,
     "EBC": 111,
@@ -1634,7 +1634,7 @@
   {
     "_id": "5c3dd8d9cc9ff46ff76a9d45",
     "index": 96,
-    "ABV": "4.7",
+    "ABV": 4.7,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 65,
     "EBC": 28,
@@ -1651,7 +1651,7 @@
   {
     "_id": "5c3dd8d9aa4784256353f239",
     "index": 97,
-    "ABV": "11.6",
+    "ABV": 11.6,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 56,
     "EBC": 88,
@@ -1668,7 +1668,7 @@
   {
     "_id": "5c3dd8d95a7db01283a1de16",
     "index": 98,
-    "ABV": "11.0",
+    "ABV": 11.0,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 31,
     "EBC": 61,
@@ -1685,7 +1685,7 @@
   {
     "_id": "5c3dd8d9b343e0bbae1d75b2",
     "index": 99,
-    "ABV": "8.2",
+    "ABV": 8.2,
     "picture": "https://previews.123rf.com/images/scukrov/scukrov1308/scukrov130800020/21626299-a-brown-beer-bottle-with-blank-label-isolated-on-white-ready-for-your-text-or-copy.jpg",
     "IBU": 62,
     "EBC": 21,
