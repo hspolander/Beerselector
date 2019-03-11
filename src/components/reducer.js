@@ -11,6 +11,7 @@ import {
 
 const initialState = {
   beers: null,
+  filteredBeers: null,
   beerDetailed: null,
   beerSortOptions: null,
   error: null,
@@ -42,7 +43,14 @@ export default function beerReducer(state = initialState, action) {
       };
     }
     case FILTER_BEERS: {
-      return { ...state };
+      return {
+        ...state,
+        filteredBeers: _.filter(
+          state.beers,
+          item =>
+            item[action.payload.searchType].toLowerCase().indexOf(action.payload.value.toLowerCase()) > -1,
+          )
+      };
     }
     case SHOW_BEER_DETAILS: {
       return { ...state };
