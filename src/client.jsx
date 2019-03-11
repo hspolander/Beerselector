@@ -1,6 +1,4 @@
 import React from 'react';
-import { connect } from 'react-redux';
-
 import ViewBeers from './components/viewBeers';
 
 const Client = () => (
@@ -9,7 +7,4 @@ const Client = () => (
   </div>
 );
 
-export default connect(
-  null,
-  null,
-)(Client);
+export default Client;
