@@ -1,12 +1,12 @@
 export const getPaginationSymbols = (selectedPage, pageAmount) => {
   let paginationSymbols = [];
-  if (pageAmount < 10) {
+  if (pageAmount < 8) {
     for (let i = 1; i <= pageAmount; i += 1) {
       paginationSymbols.push(i);
     }
-  } else if (selectedPage < 4) {
+  } else if (selectedPage < 5) {
     paginationSymbols = [1, 2, 3, 4, 5, '...', pageAmount];
-  } else if (selectedPage > pageAmount - 3) {
+  } else if (selectedPage > pageAmount - 4) {
     paginationSymbols = [
       1,
       '...',
@@ -40,40 +40,40 @@ export const getEBCcolor = EBC => {
   if (EBC < 5) {
     return '#f9f853';
   }
-  if (EBC < 7) {
+  if (EBC < 9) {
     return '#f6f513';
   }
-  if (EBC < 9) {
+  if (EBC < 15) {
     return '#ece61a';
   }
-  if (EBC < 13) {
+  if (EBC < 25) {
     return '#d5bc26';
   }
-  if (EBC < 17) {
+  if (EBC < 30) {
     return '#bf923b';
   }
-  if (EBC < 21) {
+  if (EBC < 38) {
     return '#bf813a';
   }
-  if (EBC < 27) {
+  if (EBC < 45) {
     return '#bc6733';
   }
-  if (EBC < 34) {
+  if (EBC < 50) {
     return '#030403';
   }
-  if (EBC < 40) {
-    return '#030403';
-  }
-  if (EBC < 48) {
-    return '#030403';
-  }
-  if (EBC < 58) {
+  if (EBC < 60) {
     return '#030403';
   }
   if (EBC < 70) {
     return '#030403';
   }
   if (EBC < 80) {
+    return '#030403';
+  }
+  if (EBC < 90) {
+    return '#030403';
+  }
+  if (EBC < 100) {
     return '#030403';
   }
   if (EBC < 150) {
