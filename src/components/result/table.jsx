@@ -10,7 +10,7 @@ import './table.scss';
 
 import { beerListObj, titlesListObj } from '../../types/index.js';
 
-const Table = ({ beers, rowsPerPage, titlesList }) => {
+const Table = ({ beers, rowsPerPage, titlesList, onClickCell }) => {
   const [selectedPage, setSelectedPage] = useState(1);
   return (
     <div className="tableWithPagination">
@@ -22,6 +22,7 @@ const Table = ({ beers, rowsPerPage, titlesList }) => {
             identifier={index + rowsPerPage * (selectedPage - 1)}
             key={row._id}
             row={row}
+            onClickCell={onClickCell}
             titlesList={titlesList}
           />
         ))
@@ -35,7 +36,8 @@ const Table = ({ beers, rowsPerPage, titlesList }) => {
           selectedPage,
           getPageAmount(rowsPerPage, beers.length),
         )}
-        selectedPage={selectedPage}/>
+        selectedPage={selectedPage}
+      />
     </div>
   );
 };
@@ -43,6 +45,7 @@ Table.propTypes = {
   beers: beerListObj,
   titlesList: titlesListObj,
   rowsPerPage: PropTypes.number.isRequired,
+  onClickCell: PropTypes.func.isRequired,
 };
 
 export default Table;

@@ -1,38 +1,46 @@
-import React, { Suspense, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 
+import InputTextfieldSearch from './inputTextfieldSearch';
+import Result from './result/result';
 import { beerListObj, sortOptionsObj } from '../types/index.js';
-import { loadBeers } from './actions';
+import { loadBeers, filterBeers, showDetails } from './actions';
 import './search.scss';
 
-const Result = React.lazy(() => import('./result/result'));
-
-const Search = ({ beers, sortOptions, ...props }) => {
+const Search = ({ beers, filteredBeers, sortOptions, classname, ...props }) => {
   useEffect(() => {
     props.loadBeers();
   }, []);
   return (
-    <div className="search">
-      <Suspense fallback={<div>Loading...</div>}>
-        <Result beers={beers} />
-      </Suspense>
+    <div className={`search ${classname}`}>
+      <InputTextfieldSearch
+        onSubmit={props.filterBeers}
+      />
+      <Result beers={filteredBeers || beers} onClickCell={props.showDetails} />
     </div>
   );
 };
 
 Search.propTypes = {
   beers: beerListObj,
+  filteredBeers: beerListObj,
   sortOptions: sortOptionsObj,
+  classname: PropTypes.string,
   loadBeers: PropTypes.func.isRequired,
+  filterBeers: PropTypes.func.isRequired,
+  showDetails: PropTypes.func.isRequired,
 };
 
 const mapStateToProps = state => ({
   beers: state.beerReducer.beers,
+  filteredBeers: state.beerReducer.filteredBeers,
 });
 
 const mapDispatchToProps = {
   loadBeers,
+  filterBeers,
+  showDetails,
 };
 
 export default connect(

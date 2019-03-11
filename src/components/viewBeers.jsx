@@ -2,20 +2,24 @@ import React from 'react';
 import { connect } from 'react-redux';
 
 import { beerObj, errorObj } from '../types/index';
+import { hideDetails } from './actions';
+import BeerDetails from './beerDetails';
 import Search from './search';
-import './beerDetails.scss';
 
-const BeerDetails = React.lazy(() => import('./beerDetails'));
-
-const ViewBeers = ({ beerDetailed }) => (
+const ViewBeers = ({ beerDetailed, hideDetails }) => (
   <div>
-    <Search />
-    {beerDetailed && <BeerDetails beerDetailed={beerDetailed} />}
+    <Search classname={beerDetailed && 'fade'} />
+    {beerDetailed && (
+      <BeerDetails hideDetails={hideDetails} beerDetailed={beerDetailed} />
+    )}
   </div>
 );
 ViewBeers.propTypes = {
   beerDetailed: beerObj,
-  error: errorObj,
+};
+
+const mapDispatchToProps = {
+  hideDetails,
 };
 
 const mapStateToProps = state => ({
@@ -25,5 +29,5 @@ const mapStateToProps = state => ({
 
 export default connect(
   mapStateToProps,
-  null,
+  mapDispatchToProps,
 )(ViewBeers);

@@ -5,7 +5,7 @@ import { beerObj, titlesListObj } from '../../types/index.js';
 import Cell from './cell';
 import './row.scss';
 
-const Row = ({ row, className, titlesList }) => {
+const Row = ({ row, className, titlesList, onClickCell }) => {
   const [hover, onHover] = useState('');
   return (
     <div
@@ -15,8 +15,10 @@ const Row = ({ row, className, titlesList }) => {
     >
       {titlesList.map((title, index) => (
         <Cell
-          cell={row[title.colName]}
-          key={`${row._id}${index}`}
+          value={row[title.colName]}
+          beer={row}
+          key={`${index}${row._id}`}
+          onClickCell={onClickCell}
           size={title.colSize}
         />
       ))}
@@ -28,6 +30,7 @@ Row.propTypes = {
   titlesList: titlesListObj,
   className: PropTypes.string,
   row: beerObj,
+  onClickCell: PropTypes.func,
 };
 
 export default Row;
