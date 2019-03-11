@@ -22,12 +22,12 @@ export const loadBeers = () => dispatch => {
     });
 };
 
-export const showDetails = id => dispatch => {
-  dispatch({ type: SHOW_BEER_DETAILS, id });
+export const showDetails = beer => dispatch => {
+  dispatch({ type: SHOW_BEER_DETAILS, payload: beer });
 };
 
-export const hideDetails = id => dispatch => {
-  dispatch({ type: HIDE_BEER_DETAILS, id });
+export const hideDetails = () => dispatch => {
+  dispatch({ type: HIDE_BEER_DETAILS });
 };
 
 export const sortBeers = (colSorted, sortDirection) => dispatch => {

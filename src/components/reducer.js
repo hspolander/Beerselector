@@ -53,10 +53,10 @@ export default function beerReducer(state = initialState, action) {
       };
     }
     case SHOW_BEER_DETAILS: {
-      return { ...state };
+      return { ...state, beerDetailed: action.payload };
     }
     case HIDE_BEER_DETAILS: {
-      return { ...state };
+      return { ...state, beerDetailed: null };
     }
     default: {
       return { ...state };

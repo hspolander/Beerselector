@@ -26,6 +26,7 @@
     "axios": "^0.18.0",
     "lodash": "4.17.11",
     "prop-types": "^15.6.2",
+    "rc-progress": "^2.3.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-hot-loader": "4.6.3",

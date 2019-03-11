@@ -35,3 +35,49 @@ export const getPageAmount = (rowsPerPage, length) =>
 
 export const toggleSortDirection = sortOptions =>
   sortOptions && sortOptions.sortDirection === 'asc' ? 'desc' : 'asc';
+
+export const getEBCcolor = EBC => {
+  if (EBC < 5) {
+    return '#f9f853';
+  }
+  if (EBC < 7) {
+    return '#f6f513';
+  }
+  if (EBC < 9) {
+    return '#ece61a';
+  }
+  if (EBC < 13) {
+    return '#d5bc26';
+  }
+  if (EBC < 17) {
+    return '#bf923b';
+  }
+  if (EBC < 21) {
+    return '#bf813a';
+  }
+  if (EBC < 27) {
+    return '#bc6733';
+  }
+  if (EBC < 34) {
+    return '#030403';
+  }
+  if (EBC < 40) {
+    return '#030403';
+  }
+  if (EBC < 48) {
+    return '#030403';
+  }
+  if (EBC < 58) {
+    return '#030403';
+  }
+  if (EBC < 70) {
+    return '#030403';
+  }
+  if (EBC < 80) {
+    return '#030403';
+  }
+  if (EBC < 150) {
+    return '#000000';
+  }
+  return '#2e74be';
+};

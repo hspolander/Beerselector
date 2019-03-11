@@ -1,0 +1,17 @@
+@import "../../css/_color";
+
+.floatingVisualization {
+  position: absolute;
+  padding: 5px;
+  top: 0px;
+  left: 0px;
+  background: white;
+  z-index: 10;
+  border: 2px solid $lightGray;
+  border-radius: 5px;
+	.valueCircle {
+	  width: 200px;
+	  height: 200px;
+	  display: inline-block;
+	}
+}
